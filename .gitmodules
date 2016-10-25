@@ -7,3 +7,111 @@
 [submodule "Aerial"]
 	path = Aerial
 	url = https://github.com/Nick-the-Greek/Aerial.git
+[submodule "FruityWifi"]
+	path = FruityWifi
+	url = https://github.com/xtr4nge/FruityWifi
+[submodule "Kali-Linux"]
+	path = Kali-Linux
+	url = https://github.com/Hack-with-Github/Kali-Linux
+[submodule "Kali-Linux-Essental-Folders-and-Packages"]
+	path = Kali-Linux-Essental-Folders-and-Packages
+	url = https://github.com/ArminKaric/Kali-Linux-Essental-Folders-and-Packages
+[submodule "Kali-MiTM-Evil-twin"]
+	path = Kali-MiTM-Evil-twin
+	url = https://github.com/psrcek/Kali-MiTM-Evil-twin
+[submodule "kali-scripts"]
+	path = kali-scripts
+	url = https://github.com/0x90/kali-scripts
+[submodule "NextKey"]
+	path = NextKey
+	url = https://github.com/misteriouser/NextKey
+[submodule "PyPentest"]
+	path = PyPentest
+	url = https://github.com/Faidon09/PyPentest
+[submodule "Reaver_script"]
+	path = Reaver_script
+	url = https://github.com/alexsalvetti/Reaver_script
+[submodule "Search-Credentials"]
+	path = Search-Credentials
+	url = https://github.com/rakesh999/Search-Credentials
+[submodule "SecLists"]
+	path = SecLists
+	url = https://github.com/danielmiessler/SecLists
+[submodule "Veil-Evasion"]
+	path = Veil-Evasion
+	url = https://github.com/Veil-Framework/Veil-Evasion
+[submodule "Wrapper-For-MITMF"]
+	path = Wrapper-For-MITMF
+	url = https://github.com/CeramicSkate0/Wrapper-For-MITMF
+[submodule "activestalkerspack"]
+	path = activestalkerspack
+	url = https://github.com/UncleAlan/activestalkerspack
+[submodule "bash-hax"]
+	path = bash-hax
+	url = https://github.com/zachsis/bash-hax
+[submodule "discover"]
+	path = discover
+	url = https://github.com/leebaird/discover
+[submodule "Yet-Another-Kali-Scripts-Repo-YAKSR"]
+	path = Yet-Another-Kali-Scripts-Repo-YAKSR
+	url = https://github.com/CeramicSkate0/Yet-Another-Kali-Scripts-Repo-YAKSR
+[submodule "easy-kali-scripts"]
+	path = easy-kali-scripts
+	url = https://github.com/copydog/easy-kali-scripts
+[submodule "github-kali-scripts"]
+	path = github-kali-scripts
+	url = https://github.com/exploitagency/github-kali-scripts
+[submodule "gladius"]
+	path = gladius
+	url = https://github.com/praetorian-inc/gladius
+[submodule "kali-anonsurf"]
+	path = kali-anonsurf
+	url = https://github.com/Und3rf10w/kali-anonsurf
+[submodule "kalicheatsheet"]
+	path = kalicheatsheet
+	url = https://github.com/belouve/kalicheatsheet
+[submodule "kalieraser"]
+	path = kalieraser
+	url = https://github.com/BrainfuckSec/kalieraser
+[submodule "kalitorify"]
+	path = kalitorify
+	url = https://github.com/BrainfuckSec/kalitorify
+[submodule "katoolin"]
+	path = katoolin
+	url = https://github.com/LionSec/katoolin
+[submodule "metasploit-pro-trial-grabber"]
+	path = metasploit-pro-trial-grabber
+	url = https://github.com/kulisu/metasploit-pro-trial-grabber
+[submodule "offensivesecurity"]
+	path = offensivesecurity
+	url = https://github.com/tomekceszke/offensivesecurity
+[submodule "os-scripts"]
+	path = os-scripts
+	url = https://github.com/g0tmi1k/os-scripts
+[submodule "pentest-scripts"]
+	path = pentest-scripts
+	url = https://github.com/OpenSecurityResearch/pentest-scripts
+[submodule "sparta"]
+	path = sparta
+	url = https://github.com/SECFORCE/sparta
+[submodule "ssh-phone-home"]
+	path = ssh-phone-home
+	url = https://github.com/Wh1t3Rh1n0/ssh-phone-home
+[submodule "swaparoo"]
+	path = swaparoo
+	url = https://github.com/Un0wnX/swaparoo
+[submodule "w3af-kali"]
+	path = w3af-kali
+	url = https://github.com/andresriancho/w3af-kali
+[submodule "wifiphisher"]
+	path = wifiphisher
+	url = https://github.com/sophron/wifiphisher
+[submodule "wirelessjammer"]
+	path = wirelessjammer
+	url = https://github.com/phr34k0/wirelessjammer
+[submodule "searchsploit"]
+	path = searchsploit
+	url = https://github.com/sygo/searchsploit
+[submodule "Violent-Python"]
+	path = Violent-Python
+	url = https://github.com/prestrepoh/Violent-Python
