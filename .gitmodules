@@ -1,0 +1,9 @@
+[submodule "3vilTwinAttacker"]
+	path = 3vilTwinAttacker
+	url = https://github.com/wi-fi-analyzer/3vilTwinAttacker.git
+[submodule "911_AP.sh"]
+	path = 911_AP.sh
+	url = https://github.com/crypiehef/911_AP.sh.git
+[submodule "Aerial"]
+	path = Aerial
+	url = https://github.com/Nick-the-Greek/Aerial.git
