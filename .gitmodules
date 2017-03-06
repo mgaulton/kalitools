@@ -115,3 +115,24 @@
 [submodule "Violent-Python"]
 	path = Violent-Python
 	url = https://github.com/prestrepoh/Violent-Python
+[submodule "ssh-audit"]
+	path = ssh-audit
+	url = https://github.com/arthepsy/ssh-audit.git
+[submodule "pyssltest"]
+	path = pyssltest
+	url = https://github.com/moheshmohan/pyssltest
+[submodule "doork"]
+	path = doork
+	url = https://github.com/AeonDave/doork.git
+[submodule "CrackMapExec"]
+	path = CrackMapExec
+	url = https://github.com/byt3bl33d3r/CrackMapExec
+[submodule "faraday"]
+	path = faraday
+	url = https://github.com/infobyte/faraday.git
+[submodule "powerpack"]
+	path = powerpack
+	url = https://github.com/prabinzz/powerpack
+[submodule "redcell"]
+	path = redcell
+	url = https://github.com/NECPC/RedCell-Kali
