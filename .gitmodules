@@ -136,3 +136,30 @@
 [submodule "redcell"]
 	path = redcell
 	url = https://github.com/NECPC/RedCell-Kali
+[submodule "lalin-lazykali"]
+	path = lalin-lazykali
+	url = https://github.com/Screetsec/LALIN
+[submodule "kalidocs"]
+	path = kalidocs
+	url = https://github.com/Hack-with-Github/Kali-Linux
+[submodule "sniper"]
+	path = sniper
+	url = https://github.com/1N3/Sn1per
+[submodule "kalista"]
+	path = kalista
+	url = https://github.com/Hood3dRob1n/Kalista
+[submodule "ddos"]
+	path = ddos
+	url = https://github.com/FreelancePentester/ddos-script
+[submodule "antiforensic"]
+	path = antiforensic
+	url = https://github.com/brainfucksec/kalieraser
+[submodule "lazykali"]
+	path = lazykali
+	url = https://github.com/bradfreda/Lazykali
+[submodule "wpa2-wordlists"]
+	path = wpa2-wordlists
+	url = https://github.com/kennyn510/wpa2-wordlists
+[submodule "offensive-security"]
+	path = offensive-security
+	url = https://github.com/tomekceszke/offensive-security
