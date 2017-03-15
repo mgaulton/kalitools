@@ -163,3 +163,54 @@
 [submodule "offensive-security"]
 	path = offensive-security
 	url = https://github.com/tomekceszke/offensive-security
+[submodule "metasploit-runner"]
+	path = metasploit-runner
+	url = https://github.com/amngibson/metasploit-runner
+[submodule "Penetration-Testing-Toolkit"]
+	path = Penetration-Testing-Toolkit
+	url = https://github.com/veerupandey/Penetration-Testing-Toolkit
+[submodule "Autometa"]
+	path = Autometa
+	url = https://github.com/Ramikan/Autometa
+[submodule "TheFatRat"]
+	path = TheFatRat
+	url = https://github.com/Screetsec/TheFatRat
+[submodule "venom"]
+	path = venom
+	url = https://github.com/r00t-3xp10it/venom
+[submodule "RogueSploit"]
+	path = RogueSploit
+	url = https://github.com/B4ckP0r7/RogueSploit
+[submodule "Minion"]
+	path = Minion
+	url = https://github.com/T-S-A/Minion
+[submodule "V3n0M-Scanner"]
+	path = V3n0M-Scanner
+	url = https://github.com/v3n0m-Scanner/V3n0M-Scanner
+[submodule "msf-remote-console"]
+	path = msf-remote-console
+	url = https://github.com/Luis-Hebendanz/msf-remote-console
+[submodule "deep-pwning"]
+	path = deep-pwning
+	url = https://github.com/cchio/deep-pwning
+[submodule "msfmulti"]
+	path = msfmulti
+	url = https://github.com/mattoufoutu/msfmulti
+[submodule "Metasploit-CheatSheet"]
+	path = Metasploit-CheatSheet
+	url = https://github.com/RiccardoAncarani/Metasploit-CheatSheet
+[submodule "metasploitHelper"]
+	path = metasploitHelper
+	url = https://github.com/milo2012/metasploitHelper
+[submodule "Reverse_DNS_Shellcode"]
+	path = Reverse_DNS_Shellcode
+	url = https://github.com/eik00d/Reverse_DNS_Shellcode
+[submodule "dradis-metasploit"]
+	path = dradis-metasploit
+	url = https://github.com/dradis/dradis-metasploit
+[submodule "Metasploit-Menu"]
+	path = Metasploit-Menu
+	url = https://github.com/DarrenRainey/Metasploit-Menu
+[submodule "msfgui"]
+	path = msfgui
+	url = https://github.com/scriptjunkie/msfgui
