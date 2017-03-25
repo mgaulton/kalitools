@@ -214,3 +214,90 @@
 [submodule "msfgui"]
 	path = msfgui
 	url = https://github.com/scriptjunkie/msfgui
+[submodule "autopsy"]
+	path = autopsy
+	url = https://github.com/sleuthkit/autopsy
+[submodule "sleuthkit"]
+	path = sleuthkit
+	url = https://github.com/sleuthkit/sleuthkit
+[submodule "logdissect"]
+	path = logdissect
+	url = https://github.com/dogoncouch/logdissect
+[submodule "operative-framework"]
+	path = operative-framework
+	url = https://github.com/graniet/operative-framework
+[submodule "timesketch"]
+	path = timesketch
+	url = https://github.com/google/timesketch
+[submodule "mig"]
+	path = mig
+	url = https://github.com/mozilla/mig
+[submodule "inVtero.net"]
+	path = inVtero.net
+	url = https://github.com/ShaneK2/inVtero.net
+[submodule "volatility"]
+	path = volatility
+	url = https://github.com/volatilityfoundation/volatility
+[submodule "RecuperaBit"]
+	path = RecuperaBit
+	url = https://github.com/Lazza/RecuperaBit
+[submodule "O-Saft"]
+	path = O-Saft
+	url = https://github.com/OWASP/O-Saft
+[submodule "awesome-forensics"]
+	path = awesome-forensics
+	url = https://github.com/Cugu/awesome-forensics
+[submodule "Ultimate-Forensics-VM"]
+	path = Ultimate-Forensics-VM
+	url = https://github.com/theflakes/Ultimate-Forensics-VM
+[submodule "magneto"]
+	path = magneto
+	url = https://github.com/padfoot999/magneto
+[submodule "rekall"]
+	path = rekall
+	url = https://github.com/google/rekall
+[submodule "docker-cif"]
+	path = docker-cif
+	url = https://github.com/ventz/docker-cif
+[submodule "dfirtriage"]
+	path = dfirtriage
+	url = https://github.com/travisfoley/dfirtriage
+[submodule "docker-o-saft"]
+	path = docker-o-saft
+	url = https://github.com/punkstar/docker-o-saft
+[submodule "logbeautify"]
+	path = logbeautify
+	url = https://github.com/juanjoslopezv/logbeautify
+[submodule "dff"]
+	path = dff
+	url = https://github.com/arxsys/dff
+[submodule "sift"]
+	path = sift
+	url = https://github.com/sans-dfir/sift
+[submodule "Linux-Forensics"]
+	path = Linux-Forensics
+	url = https://github.com/Kan1shka9/Linux-Forensics
+[submodule "kirjuri"]
+	path = kirjuri
+	url = https://github.com/AnttiKurittu/kirjuri
+[submodule "Wireless-forensics-framework"]
+	path = Wireless-forensics-framework
+	url = https://github.com/nipunjaswal/Wireless-forensics-framework
+[submodule "networkforensics"]
+	path = networkforensics
+	url = https://github.com/freddiebarrsmith/networkforensics
+[submodule "xplico"]
+	path = xplico
+	url = https://github.com/xplico/xplico
+[submodule "ir-rescue"]
+	path = ir-rescue
+	url = https://github.com/diogo-fernan/ir-rescue
+[submodule "travel-laptop"]
+	path = travel-laptop
+	url = https://github.com/CrowdStrike/travel-laptop
+[submodule "Volatility-Framework-IDE"]
+	path = Volatility-Framework-IDE
+	url = https://github.com/eriston/Volatility-Framework-IDE
+[submodule "volatile-broadside"]
+	path = volatile-broadside
+	url = https://github.com/Dioberne/volatile-broadside
