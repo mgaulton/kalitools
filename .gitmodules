@@ -301,3 +301,6 @@
 [submodule "volatile-broadside"]
 	path = volatile-broadside
 	url = https://github.com/Dioberne/volatile-broadside
+[submodule "Scythe"]
+	path = Scythe
+	url = https://github.com/ChrisJohnRiley/Scythe
