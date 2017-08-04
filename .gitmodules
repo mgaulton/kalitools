@@ -304,3 +304,57 @@
 [submodule "Scythe"]
 	path = Scythe
 	url = https://github.com/ChrisJohnRiley/Scythe
+[submodule "brut3k1t"]
+	path = brut3k1t
+	url = https://github.com/ex0dus-0x/brut3k1t.git
+[submodule "security-stuffs"]
+	path = security-stuffs
+	url = https://github.com/siditrix17/security-stuffs.git
+[submodule "usb-canary"]
+	path = usb-canary
+	url = https://github.com/probablynotablog/usb-canary.git
+[submodule "salt-scanner"]
+	path = salt-scanner
+	url = https://github.com/0x4D31/salt-scanner.git
+[submodule "pwk-cheatsheet"]
+	path = pwk-cheatsheet
+	url = https://github.com/re-pronin/pwk-cheatsheet.git
+[submodule "Linux-Keylogger"]
+	path = Linux-Keylogger
+	url = https://github.com/Kediel/Linux-Keylogger.git
+[submodule "CyberSecurityApp"]
+	path = CyberSecurityApp
+	url = https://github.com/ZugNZwang/CyberSecurityApp.git
+[submodule "OSHardening"]
+	path = OSHardening
+	url = https://github.com/NitescuLucian/OSHardening.git
+[submodule "HaboMalHunter"]
+	path = HaboMalHunter
+	url = https://github.com/Tencent/HaboMalHunter.git
+[submodule "Palioxis"]
+	path = Palioxis
+	url = https://github.com/deadbits/Palioxis.git
+[submodule "hephaestus"]
+	path = hephaestus
+	url = https://github.com/james-daniel/hephaestus.git
+[submodule "sysctl"]
+	path = sysctl
+	url = https://github.com/omniton/sysctl.git
+[submodule "Anti-DDOS"]
+	path = Anti-DDOS
+	url = https://github.com/ismailtasdelen/Anti-DDOS.git
+[submodule "security-assessor"]
+	path = security-assessor
+	url = https://github.com/stevegrubb/security-assessor.git
+[submodule "swap_digger"]
+	path = swap_digger
+	url = https://github.com/sevagas/swap_digger.git
+[submodule "cheat-sheets"]
+	path = cheat-sheets
+	url = https://github.com/tomklino/cheat-sheets.git
+[submodule "Detect-It-Easy"]
+	path = Detect-It-Easy
+	url = https://github.com/horsicq/Detect-It-Easy.git
+[submodule "airgeddon"]
+	path = airgeddon
+	url = https://github.com/v1s1t0r1sh3r3/airgeddon.git
