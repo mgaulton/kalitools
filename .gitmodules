@@ -358,3 +358,24 @@
 [submodule "airgeddon"]
 	path = airgeddon
 	url = https://github.com/v1s1t0r1sh3r3/airgeddon.git
+[submodule "kickthemout"]
+	path = kickthemout
+	url = https://github.com/k4m4/kickthemout.git
+[submodule "PcapViz"]
+	path = PcapViz
+	url = https://github.com/mateuszk87/PcapViz.git
+[submodule "pythem"]
+	path = pythem
+	url = https://github.com/m4n3dw0lf/pythem.git
+[submodule "nettop"]
+	path = nettop
+	url = https://github.com/Emanem/nettop.git
+[submodule "pydictor"]
+	path = pydictor
+	url = https://github.com/LandGrey/pydictor.git
+[submodule "appsec-docker-py"]
+	path = appsec-docker-py
+	url = https://github.com/aaronweaver/appsec-docker-py.git
+[submodule "WiFi-autopwner"]
+	path = WiFi-autopwner
+	url = https://github.com/Mi-Al/WiFi-autopwner.git
