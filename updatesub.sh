@@ -8,3 +8,6 @@ git submodule foreach --recursive git submodule update --init
 #it submodule update
 #it pull
 
+git add .
+git commit -m 'updates'
+git push
