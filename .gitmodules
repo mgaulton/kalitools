@@ -379,3 +379,381 @@
 [submodule "WiFi-autopwner"]
 	path = WiFi-autopwner
 	url = https://github.com/Mi-Al/WiFi-autopwner.git
+[submodule "Responder"]
+	path = Responder
+	url = https://github.com/lgandx/Responder.git
+[submodule "D0xk1t"]
+	path = D0xk1t
+	url = https://github.com/ex0dus-0x/D0xk1t.git
+[submodule "PyExfil"]
+	path = PyExfil
+	url = https://github.com/ytisf/PyExfil.git
+[submodule "tcp-bunny"]
+	path = tcp-bunny
+	url = https://github.com/jpegleg/tcp-bunny.git
+[submodule "tcpdump-watch"]
+	path = tcpdump-watch
+	url = https://github.com/squizzi/tcpdump-watch.git
+[submodule "Vanquish"]
+	path = Vanquish
+	url = https://github.com/frizb/Vanquish.git
+[submodule "Checklists"]
+	path = Checklists
+	url = https://github.com/netbiosX/Checklists.git
+[submodule "TekDefense-Automater"]
+	path = TekDefense-Automater
+	url = https://github.com/1aN0rmus/TekDefense-Automater.git
+[submodule "p0wnedShell"]
+	path = p0wnedShell
+	url = https://github.com/Cn33liz/p0wnedShell.git
+[submodule "Invoke-Phant0m"]
+	path = Invoke-Phant0m
+	url = https://github.com/hlldz/Invoke-Phant0m.git
+[submodule "AutoSploit"]
+	path = AutoSploit
+	url = https://github.com/NullArray/AutoSploit.git
+[submodule "One-Lin3r"]
+	path = One-Lin3r
+	url = https://github.com/D4Vinci/One-Lin3r.git
+[submodule "commix"]
+	path = commix
+	url = https://github.com/commixproject/commix.git
+[submodule "ptf"]
+	path = ptf
+	url = https://github.com/trustedsec/ptf.git
+[submodule "unicorn"]
+	path = unicorn
+	url = https://github.com/trustedsec/unicorn.git
+[submodule "trevorc2"]
+	path = trevorc2
+	url = https://github.com/trustedsec/trevorc2.git
+[submodule "meterssh"]
+	path = meterssh
+	url = https://github.com/trustedsec/meterssh.git
+[submodule "hate_crack"]
+	path = hate_crack
+	url = https://github.com/trustedsec/hate_crack.git
+[submodule "egressbuster"]
+	path = egressbuster
+	url = https://github.com/trustedsec/egressbuster.git
+[submodule "owtf"]
+	path = owtf
+	url = https://github.com/owtf/owtf.git
+[submodule "ctf-tools"]
+	path = ctf-tools
+	url = https://github.com/zardus/ctf-tools.git
+[submodule "penetration-testing-tools"]
+	path = penetration-testing-tools
+	url = https://github.com/Aptive/penetration-testing-tools.git
+[submodule "wuzz"]
+	path = wuzz
+	url = https://github.com/asciimoo/wuzz.git
+[submodule "sqlmap"]
+	path = sqlmap
+	url = https://github.com/sqlmapproject/sqlmap.git
+[submodule "killchain"]
+	path = killchain
+	url = https://github.com/ruped24/killchain.git
+[submodule "tap"]
+	path = tap
+	url = https://github.com/trustedsec/tap.git
+[submodule "vuls"]
+	path = vuls
+	url = https://github.com/future-architect/vuls.git
+[submodule "Findsploit"]
+	path = Findsploit
+	url = https://github.com/1N3/Findsploit.git
+[submodule "spiderfoot"]
+	path = spiderfoot
+	url = https://github.com/smicallef/spiderfoot.git
+[submodule "huginn"]
+	path = huginn
+	url = https://github.com/huginn/huginn.git
+[submodule "autoDANE"]
+	path = autoDANE
+	url = https://github.com/sensepost/autoDANE.git
+[submodule "XSStrike"]
+	path = XSStrike
+	url = https://github.com/UltimateHackers/XSStrike
+[submodule "mimikatz"]
+	path = mimikatz
+	url = https://github.com/gentilkiwi/mimikatz.git
+[submodule "malscan"]
+	path = malscan
+	url = https://github.com/jgrancell/malscan.git
+[submodule "BruteX"]
+	path = BruteX
+	url = https://github.com/1N3/BruteX.git
+[submodule "prochunter"]
+	path = prochunter
+	url = https://gitlab.com/nowayout/prochunter.git
+[submodule "backdoorme"]
+	path = backdoorme
+	url = https://github.com/Kkevsterrr/backdoorme.git
+[submodule "Pybelt"]
+	path = Pybelt
+	url = https://github.com/Ekultek/Pybelt.git
+[submodule "beeswarm"]
+	path = beeswarm
+	url = https://github.com/honeynet/beeswarm.git
+[submodule "vulscan"]
+	path = vulscan
+	url = https://github.com/scipag/vulscan.git
+[submodule "hackerbot"]
+	path = hackerbot
+	url = https://github.com/omergunal/hackerbot.git
+[submodule "SQLMAP-Web-GUI"]
+	path = SQLMAP-Web-GUI
+	url = https://github.com/Hood3dRob1n/SQLMAP-Web-GUI.git
+[submodule "Brosec"]
+	path = Brosec
+	url = https://github.com/gabemarshall/Brosec.git
+[submodule "waidps"]
+	path = waidps
+	url = https://github.com/SYWorks/waidps.git
+[submodule "xsscrapy"]
+	path = xsscrapy
+	url = https://github.com/DanMcInerney/xsscrapy.git
+[submodule "parse"]
+	path = parse
+	url = https://github.com/psecio/parse.git
+[submodule "bashscanner"]
+	path = bashscanner
+	url = https://github.com/PatrolServer/bashscanner.git
+[submodule "BloodHound"]
+	path = BloodHound
+	url = https://github.com/BloodHoundAD/BloodHound.git
+[submodule "sslsplit"]
+	path = sslsplit
+	url = https://github.com/droe/sslsplit.git
+[submodule "anonym8"]
+	path = anonym8
+	url = https://github.com/HiroshiManRise/anonym8.git
+[submodule "Radium-Keylogger"]
+	path = Radium-Keylogger
+	url = https://github.com/mehulj94/Radium-Keylogger.git
+[submodule "evilgrade"]
+	path = evilgrade
+	url = https://github.com/infobyte/evilgrade.git
+[submodule "PRET"]
+	path = PRET
+	url = https://github.com/RUB-NDS/PRET.git
+[submodule "dotdotpwn"]
+	path = dotdotpwn
+	url = https://github.com/wireghoul/dotdotpwn.git
+[submodule "HandShaker"]
+	path = HandShaker
+	url = https://github.com/d4rkcat/HandShaker.git
+[submodule "zarp"]
+	path = zarp
+	url = https://github.com/hatRiot/zarp.git
+[submodule "mhn"]
+	path = mhn
+	url = https://github.com/threatstream/mhn.git
+[submodule "xsser"]
+	path = xsser
+	url = https://github.com/Varbaek/xsser.git
+[submodule "leviathan"]
+	path = leviathan
+	url = https://github.com/leviathan-framework/leviathan.git
+[submodule "nsearch"]
+	path = nsearch
+	url = https://github.com/JKO/nsearch.git
+[submodule "AtEar"]
+	path = AtEar
+	url = https://github.com/NORMA-Inc/AtEar.git
+[submodule "sshttp"]
+	path = sshttp
+	url = https://github.com/stealth/sshttp.git
+[submodule "neet"]
+	path = neet
+	url = https://github.com/JonnyHightower/neet.git
+[submodule "DET"]
+	path = DET
+	url = https://github.com/sensepost/DET.git
+[submodule "PCredz"]
+	path = PCredz
+	url = https://github.com/lgandx/PCredz.git
+[submodule "scanless"]
+	path = scanless
+	url = https://github.com/vesche/scanless.git
+[submodule "AutoLocalPrivilegeEscalation"]
+	path = AutoLocalPrivilegeEscalation
+	url = https://github.com/ngalongc/AutoLocalPrivilegeEscalation.git
+[submodule "jackhammer"]
+	path = jackhammer
+	url = https://github.com/olacabs/jackhammer.git
+[submodule "RootHelper"]
+	path = RootHelper
+	url = https://github.com/NullArray/RootHelper.git
+[submodule "portia"]
+	path = portia
+	url = https://github.com/SpiderLabs/portia.git
+[submodule "zaproxy"]
+	path = zaproxy
+	url = https://github.com/zaproxy/zaproxy.git
+[submodule "pftriage"]
+	path = pftriage
+	url = https://github.com/idiom/pftriage.git
+[submodule "sharesniffer"]
+	path = sharesniffer
+	url = https://github.com/shirosaidev/sharesniffer.git
+[submodule "getsploit"]
+	path = getsploit
+	url = https://github.com/vulnersCom/getsploit.git
+[submodule "Logstalgia"]
+	path = Logstalgia
+	url = https://github.com/acaudwell/Logstalgia.git
+[submodule "gogs"]
+	path = gogs
+	url = https://github.com/gogits/gogs.git
+[submodule "haka"]
+	path = haka
+	url = https://github.com/haka-security/haka.git
+[submodule "opensnitch"]
+	path = opensnitch
+	url = https://github.com/evilsocket/opensnitch.git
+[submodule "lorg"]
+	path = lorg
+	url = https://github.com/jensvoid/lorg.git
+[submodule "plecost"]
+	path = plecost
+	url = https://github.com/iniqua/plecost.git
+[submodule "Stacer"]
+	path = Stacer
+	url = https://github.com/oguzhaninan/Stacer.git
+[submodule "blueflower"]
+	path = blueflower
+	url = https://github.com/veorq/blueflower.git
+[submodule "port-scan-automation"]
+	path = port-scan-automation
+	url = https://github.com/commonexploits/port-scan-automation.git
+[submodule "fwknop"]
+	path = fwknop
+	url = https://github.com/mrash/fwknop.git
+[submodule "PacketKnockOut"]
+	path = PacketKnockOut
+	url = https://github.com/JousterL/PacketKnockOut.git
+[submodule "wordpress-exploit-framework"]
+	path = wordpress-exploit-framework
+	url = https://github.com/rastating/wordpress-exploit-framework.git
+[submodule "xssmap"]
+	path = xssmap
+	url = https://github.com/secdec/xssmap.git
+[submodule "shellyzer"]
+	path = shellyzer
+	url = https://github.com/automatesecurity/shellyzer.git
+[submodule "assimilation-official"]
+	path = assimilation-official
+	url = https://github.com/assimilation/assimilation-official.git
+[submodule "Taipan"]
+	path = Taipan
+	url = https://github.com/taipan-scanner/Taipan.git
+[submodule "fuzzapi"]
+	path = fuzzapi
+	url = https://github.com/Fuzzapi/fuzzapi.git
+[submodule "OWASP-Nettacker"]
+	path = OWASP-Nettacker
+	url = https://github.com/viraintel/OWASP-Nettacker.git
+[submodule "BruteSploit"]
+	path = BruteSploit
+	url = https://github.com/Screetsec/BruteSploit.git
+[submodule "gso"]
+	path = gso
+	url = https://github.com/MilesCranmer/gso.git
+[submodule "jok3r"]
+	path = jok3r
+	url = https://github.com/koutto/jok3r.git
+[submodule "monkey"]
+	path = monkey
+	url = https://github.com/guardicore/monkey.git
+[submodule "DPAT"]
+	path = DPAT
+	url = https://github.com/clr2of8/DPAT.git
+[submodule "python-evtx"]
+	path = python-evtx
+	url = https://github.com/williballenthin/python-evtx.git
+[submodule "msdat"]
+	path = msdat
+	url = https://github.com/quentinhardy/msdat.git
+[submodule "ODIN"]
+	path = ODIN
+	url = https://github.com/chrismaddalena/ODIN.git
+[submodule "GyoiThon"]
+	path = GyoiThon
+	url = https://github.com/gyoisamurai/GyoiThon.git
+[submodule "PoshSecFramework"]
+	path = PoshSecFramework
+	url = https://github.com/PoshSec/PoshSecFramework.git
+[submodule "dorkbot"]
+	path = dorkbot
+	url = https://github.com/utiso/dorkbot.git
+[submodule "Fenrir"]
+	path = Fenrir
+	url = https://github.com/Neo23x0/Fenrir.git
+[submodule "MailSniper"]
+	path = MailSniper
+	url = https://github.com/dafthack/MailSniper.git
+[submodule "Cloakify"]
+	path = Cloakify
+	url = https://github.com/TryCatchHCF/Cloakify.git
+[submodule "wafw00f"]
+	path = wafw00f
+	url = https://github.com/EnableSecurity/wafw00f.git
+[submodule "apt2"]
+	path = apt2
+	url = https://github.com/MooseDojo/apt2.git
+[submodule "sshync"]
+	path = sshync
+	url = https://github.com/mateogianolio/sshync.git
+[submodule "ruler"]
+	path = ruler
+	url = https://github.com/sensepost/ruler.git
+[submodule "DomainPasswordSpray"]
+	path = DomainPasswordSpray
+	url = https://github.com/dafthack/DomainPasswordSpray.git
+[submodule "OSCPRepo"]
+	path = OSCPRepo
+	url = https://github.com/rewardone/OSCPRepo
+[submodule "PowerMemory"]
+	path = PowerMemory
+	url = https://github.com/giMini/PowerMemory.git
+[submodule "PSKernel-Primitives"]
+	path = PSKernel-Primitives
+	url = https://github.com/FuzzySecurity/PSKernel-Primitives.git
+[submodule "netattack2"]
+	path = netattack2
+	url = https://github.com/chrizator/netattack2.git
+[submodule "Post-exploitation"]
+	path = Post-exploitation
+	url = https://github.com/FlatL1neAPT/Post-exploitation.git
+[submodule "changeme"]
+	path = changeme
+	url = https://github.com/ztgrace/changeme.git
+[submodule "LyncSniper"]
+	path = LyncSniper
+	url = https://github.com/mdsecresearch/LyncSniper.git
+[submodule "PenTesting-Scripts"]
+	path = PenTesting-Scripts
+	url = https://github.com/killswitch-GUI/PenTesting-Scripts.git
+[submodule "NtdsAudit"]
+	path = NtdsAudit
+	url = https://github.com/Dionach/NtdsAudit.git
+[submodule "ICG-AutoExploiterBoT"]
+	path = ICG-AutoExploiterBoT
+	url = https://github.com/04x/ICG-AutoExploiterBoT.git
+[submodule "davscan"]
+	path = davscan
+	url = https://github.com/Graph-X/davscan.git
+[submodule "Goohak"]
+	path = Goohak
+	url = https://github.com/1N3/Goohak.git
+[submodule "opencanary"]
+	path = opencanary
+	url = https://github.com/thinkst/opencanary.git
+[submodule "txtool"]
+	path = txtool
+	url = https://github.com/kuburan/txtool.git
+[submodule "SessionGopher"]
+	path = SessionGopher
+	url = https://github.com/fireeye/SessionGopher.git
