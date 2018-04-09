@@ -757,3 +757,6 @@
 [submodule "SessionGopher"]
 	path = SessionGopher
 	url = https://github.com/fireeye/SessionGopher.git
+[submodule "Astra"]
+	path = Astra
+	url = git@github.com:flipkart-incubator/Astra.git
