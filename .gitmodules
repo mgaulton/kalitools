@@ -760,3 +760,6 @@
 [submodule "Astra"]
 	path = Astra
 	url = git@github.com:flipkart-incubator/Astra.git
+[submodule "XssPy"]
+	path = XssPy
+	url = git@github.com:faizann24/XssPy.git
