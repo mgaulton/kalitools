@@ -763,3 +763,6 @@
 [submodule "XssPy"]
 	path = XssPy
 	url = git@github.com:faizann24/XssPy.git
+[submodule "Kali-Update-Script"]
+	path = Kali-Update-Script
+	url = git@github.com:gnarlyhaze/Kali-Update-Script.git
