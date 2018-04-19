@@ -766,3 +766,6 @@
 [submodule "Kali-Update-Script"]
 	path = Kali-Update-Script
 	url = git@github.com:gnarlyhaze/Kali-Update-Script.git
+[submodule "LinEnum"]
+	path = LinEnum
+	url = git@github.com:rebootuser/LinEnum.git
