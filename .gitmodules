@@ -769,3 +769,33 @@
 [submodule "LinEnum"]
 	path = LinEnum
 	url = git@github.com:rebootuser/LinEnum.git
+[submodule "tomcatWarDeployer"]
+	path = tomcatWarDeployer
+	url = git@github.com:mgeeky/tomcatWarDeployer.git
+[submodule "smbmap"]
+	path = smbmap
+	url = git@github.com:ShawnDEvans/smbmap.git
+[submodule "rapidscan"]
+	path = rapidscan
+	url = git@github.com:skavngr/rapidscan.git
+[submodule "Keylogger"]
+	path = Keylogger
+	url = git@github.com:NullArray/Keylogger.git
+[submodule "Threat-Intelligence-Hunter"]
+	path = Threat-Intelligence-Hunter
+	url = git@github.com:abhinavbom/Threat-Intelligence-Hunter.git
+[submodule "linux-exploit-suggester-2"]
+	path = linux-exploit-suggester-2
+	url = git@github.com:jondonas/linux-exploit-suggester-2.git
+[submodule "sandmap"]
+	path = sandmap
+	url = git@github.com:trimstray/sandmap.git
+[submodule "StarFighters"]
+	path = StarFighters
+	url = git@github.com:Cn33liz/StarFighters.git
+[submodule "kerberoast"]
+	path = kerberoast
+	url = git@github.com:nidem/kerberoast.git
+[submodule "ADAPE-Script"]
+	path = ADAPE-Script
+	url = git@github.com:hausec/ADAPE-Script.git
