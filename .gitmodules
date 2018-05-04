@@ -799,3 +799,6 @@
 [submodule "ADAPE-Script"]
 	path = ADAPE-Script
 	url = git@github.com:hausec/ADAPE-Script.git
+[submodule "docker-hacklab"]
+	path = docker-hacklab
+	url = https://github.com/ston3o/docker-hacklab.git
