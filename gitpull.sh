@@ -1,3 +1,3 @@
-git pull --recurse-submodules
-git submodule update --recursive --remote
+git pull --recurse-submodules --recursive 
+git submodule update --recursive --recurse-submodules --remote
 
