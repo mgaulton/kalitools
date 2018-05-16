@@ -802,3 +802,42 @@
 [submodule "docker-hacklab"]
 	path = docker-hacklab
 	url = https://github.com/ston3o/docker-hacklab.git
+[submodule "Grok-backdoor"]
+	path = Grok-backdoor
+	url = https://github.com/deepzec/Grok-backdoor.git
+[submodule "Invoke-WCMDump"]
+	path = Invoke-WCMDump
+	url = https://github.com/peewpw/Invoke-WCMDump.git
+[submodule "wpsploit"]
+	path = wpsploit
+	url = https://github.com/espreto/wpsploit.git
+[submodule "ntdsxtract"]
+	path = ntdsxtract
+	url = https://github.com/csababarta/ntdsxtract.git
+[submodule "ReconDog"]
+	path = ReconDog
+	url = https://github.com/UltimateHackers/ReconDog.git
+[submodule "redshellguide"]
+	path = redshellguide
+	url = https://github.com/lawrenceamer/redshellguide.git
+[submodule "Cheatsheets"]
+	path = Cheatsheets
+	url = https://github.com/slyth11907/Cheatsheets.git
+[submodule "My-Shodan-Scripts"]
+	path = My-Shodan-Scripts
+	url = https://github.com/random-robbie/My-Shodan-Scripts.git
+[submodule "ezsploit"]
+	path = ezsploit
+	url = https://github.com/rand0m1ze/ezsploit.git
+[submodule "astroid"]
+	path = astroid
+	url = https://github.com/M4sc3r4n0/astroid.git
+[submodule "GoogD0rker"]
+	path = GoogD0rker
+	url = https://github.com/ZephrFish/GoogD0rker.git
+[submodule "WPSploit"]
+	path = WPSploit
+	url = https://github.com/m4ll0k/WPSploit.git
+[submodule "xray"]
+	path = xray
+	url = https://github.com/evilsocket/xray.git
