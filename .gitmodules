@@ -841,3 +841,66 @@
 [submodule "xray"]
 	path = xray
 	url = https://github.com/evilsocket/xray.git
+[submodule "routersploit"]
+	path = routersploit
+	url = https://github.com/threat9/routersploit.git
+[submodule "pentest-tools"]
+	path = pentest-tools
+	url = git@github.com:gwen001/pentest-tools.git
+[submodule "RATDecoders"]
+	path = RATDecoders
+	url = https://github.com/kevthehermit/RATDecoders.git
+[submodule "pentest-tools-repo"]
+	path = pentest-tools-repo
+	url = git@github.com:Aptive/penetration-testing-tools.git
+[submodule "Kansa"]
+	path = Kansa
+	url = https://github.com/davehull/Kansa.git
+[submodule "lazyrecon"]
+	path = lazyrecon
+	url = https://github.com/nahamsec/lazyrecon.git
+[submodule "sqlmate"]
+	path = sqlmate
+	url = https://github.com/UltimateHackers/sqlmate.git
+[submodule "net-creds"]
+	path = net-creds
+	url = https://github.com/DanMcInerney/net-creds.git
+[submodule "RottenPotatoNG"]
+	path = RottenPotatoNG
+	url = git@github.com:breenmachine/RottenPotatoNG.git
+[submodule "pentest-tools-2"]
+	path = pentest-tools-2
+	url = https://github.com/reider-roque/pentest-tools.git
+[submodule "MSBuildShell"]
+	path = MSBuildShell
+	url = https://github.com/Cn33liz/MSBuildShell.git
+[submodule "D-TECT"]
+	path = D-TECT
+	url = https://github.com/shawarkhanethicalhacker/D-TECT.git
+[submodule "credgrap_ie_edge"]
+	path = credgrap_ie_edge
+	url = https://github.com/HanseSecure/credgrap_ie_edge.git
+[submodule "xsssniper"]
+	path = xsssniper
+	url = https://github.com/gbrindisi/xsssniper.git
+[submodule "Smbtouch-Scanner"]
+	path = Smbtouch-Scanner
+	url = https://github.com/3gstudent/Smbtouch-Scanner.git
+[submodule "tools-tbhm"]
+	path = tools-tbhm
+	url = https://github.com/DaniLabs/tools-tbhm.git
+[submodule "Ebowla"]
+	path = Ebowla
+	url = https://github.com/Genetic-Malware/Ebowla.git
+[submodule "Yuki-Chan-The-Auto-Pentest"]
+	path = Yuki-Chan-The-Auto-Pentest
+	url = https://github.com/Yukinoshita47/Yuki-Chan-The-Auto-Pentest.git
+[submodule "smi_check"]
+	path = smi_check
+	url = https://github.com/Cisco-Talos/smi_check.git
+[submodule "SleuthQL"]
+	path = SleuthQL
+	url = git@github.com:RhinoSecurityLabs/SleuthQL.git
+[submodule "DARKSURGEON"]
+	path = DARKSURGEON
+	url = git@github.com:cryps1s/DARKSURGEON.git
