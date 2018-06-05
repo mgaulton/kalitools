@@ -904,3 +904,138 @@
 [submodule "DARKSURGEON"]
 	path = DARKSURGEON
 	url = git@github.com:cryps1s/DARKSURGEON.git
+[submodule "meta/msf-auxiliarys"]
+	path = meta/msf-auxiliarys
+	url = git@github.com:r00t-3xp10it/msf-auxiliarys.git
+[submodule "meta/Winpayloads"]
+	path = meta/Winpayloads
+	url = git@github.com:nccgroup/Winpayloads.git
+[submodule "meta/msploitego"]
+	path = meta/msploitego
+	url = git@github.com:shizzz477/msploitego.git
+[submodule "meta/Metasploit-Plugins"]
+	path = meta/Metasploit-Plugins
+	url = git@github.com:darkoperator/Metasploit-Plugins.git
+[submodule "meta/AutoExploit"]
+	path = meta/AutoExploit
+	url = git@github.com:iamsaqibkhans/AutoExploit.git
+[submodule "meta/Terminator"]
+	path = meta/Terminator
+	url = git@github.com:MohamedNourTN/Terminator.git
+[submodule "meta/metasploitHelper"]
+	path = meta/metasploitHelper
+	url = git@github.com:milo2012/metasploitHelper.git
+[submodule "meta/msf"]
+	path = meta/msf
+	url = git@github.com:sn0wfa11/msf.git
+[submodule "meta/Autopwn"]
+	path = meta/Autopwn
+	url = git@github.com:rpranshu/Autopwn.git
+[submodule "meta/Devil"]
+	path = meta/Devil
+	url = git@github.com:itsmehacker/Devil.git
+[submodule "meta/beefmetasploitplugin"]
+	path = meta/beefmetasploitplugin
+	url = git@github.com:xntrik/beefmetasploitplugin.git
+[submodule "meta/eternalblue-scanner"]
+	path = meta/eternalblue-scanner
+	url = git@github.com:nsa/eternalblue-scanner.git
+[submodule "EggShell"]
+	path = EggShell
+	url = git@github.com:neoneggplant/EggShell.git
+[submodule "meta/AutoSploit"]
+	path = meta/AutoSploit
+	url = git@github.com:NullArray/AutoSploit.git
+[submodule "meta/Eternalblue-Doublepulsar-Metasploit"]
+	path = meta/Eternalblue-Doublepulsar-Metasploit
+	url = git@github.com:bibortone/Eternalblue-Doublepulsar-Metasploit.git
+[submodule "meta/Automating-Metasploit-with-Bash"]
+	path = meta/Automating-Metasploit-with-Bash
+	url = git@github.com:hexachordanu/Automating-Metasploit-with-Bash.git
+[submodule "meta/Arms-Commander"]
+	path = meta/Arms-Commander
+	url = git@github.com:tanc7/Arms-Commander.git
+[submodule "meta/Findsploit"]
+	path = meta/Findsploit
+	url = git@github.com:1N3/Findsploit.git
+[submodule "meta/AutoBlue-MS17-010"]
+	path = meta/AutoBlue-MS17-010
+	url = git@github.com:3ndG4me/AutoBlue-MS17-010.git
+[submodule "meta/metapwn"]
+	path = meta/metapwn
+	url = git@github.com:wumb0/metapwn.git
+[submodule "meta/msf-remote-console"]
+	path = meta/msf-remote-console
+	url = git@github.com:Luis-Hebendanz/msf-remote-console.git
+[submodule "meta/AutoSploit2"]
+	path = meta/AutoSploit2
+	url = git@github.com:RootUp/AutoSploit.git
+[submodule "meta/reverse_tcp-ngrok"]
+	path = meta/reverse_tcp-ngrok
+	url = git@github.com:its-arun/reverse_tcp-ngrok.git
+[submodule "meta/InfoGather"]
+	path = meta/InfoGather
+	url = git@github.com:Himan6/InfoGather.git
+[submodule "wordlist_generator"]
+	path = wordlist_generator
+	url = git@github.com:hyphendoodledocx/wordlist_generator.git
+[submodule "meta/Easy-Pentesting-Framework"]
+	path = meta/Easy-Pentesting-Framework
+	url = git@github.com:itsmeroy2012/Easy-Pentesting-Framework.git
+[submodule "meta/db_exploit"]
+	path = meta/db_exploit
+	url = git@github.com:howls90/db_exploit.git
+[submodule "meta/plugin-netdb-daemon"]
+	path = meta/plugin-netdb-daemon
+	url = git@github.com:netdbiot/plugin-netdb-daemon.git
+[submodule "meta/Metasploit-Modules"]
+	path = meta/Metasploit-Modules
+	url = git@github.com:cbrnrd/Metasploit-Modules.git
+[submodule "meta/wannakill"]
+	path = meta/wannakill
+	url = git@github.com:jllangley/wannakill.git
+[submodule "meta/Metasploit-Resource-Scripts"]
+	path = meta/Metasploit-Resource-Scripts
+	url = git@github.com:bluscreenofjeff/Metasploit-Resource-Scripts.git
+[submodule "morpheus"]
+	path = morpheus
+	url = git@github.com:r00t-3xp10it/morpheus.git
+[submodule "meta/metateta"]
+	path = meta/metateta
+	url = git@github.com:WazeHell/metateta.git
+[submodule "meta/MetaBeEF"]
+	path = meta/MetaBeEF
+	url = git@github.com:RooTender/MetaBeEF.git
+[submodule "meta/lazysploit"]
+	path = meta/lazysploit
+	url = git@github.com:porthunter/lazysploit.git
+[submodule "meta/post-brimstone-harden"]
+	path = meta/post-brimstone-harden
+	url = git@github.com:brimstone/post-brimstone-harden.git
+[submodule "meta/Windows-Exploit-Suggester"]
+	path = meta/Windows-Exploit-Suggester
+	url = git@github.com:GDSSecurity/Windows-Exploit-Suggester.git
+[submodule "meta/botmap"]
+	path = meta/botmap
+	url = git@github.com:Coretool/botmap.git
+[submodule "meta/Metasploit-Code"]
+	path = meta/Metasploit-Code
+	url = git@github.com:carnal0wnage/Metasploit-Code.git
+[submodule "meta/msfmulti"]
+	path = meta/msfmulti
+	url = git@github.com:mdeous/msfmulti.git
+[submodule "meta/Minion"]
+	path = meta/Minion
+	url = git@github.com:T-S-A/Minion.git
+[submodule "meta/EternalBlue-MSF-Automation"]
+	path = meta/EternalBlue-MSF-Automation
+	url = git@github.com:SecFloater/EternalBlue-MSF-Automation.git
+[submodule "meta/windows-privilege-escalation"]
+	path = meta/windows-privilege-escalation
+	url = git@github.com:pentest-academy/windows-privilege-escalation.git
+[submodule "meta/metasploit-modules"]
+	path = meta/metasploit-modules
+	url = git@github.com:p3nt4/metasploit-modules.git
+[submodule "meta/Metasploit-Post-Exploitation-Modules"]
+	path = meta/Metasploit-Post-Exploitation-Modules
+	url = git@github.com:bytezealot/Metasploit-Post-Exploitation-Modules.git
