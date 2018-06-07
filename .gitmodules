@@ -1039,3 +1039,42 @@
 [submodule "meta/Metasploit-Post-Exploitation-Modules"]
 	path = meta/Metasploit-Post-Exploitation-Modules
 	url = git@github.com:bytezealot/Metasploit-Post-Exploitation-Modules.git
+[submodule "Hacker-Playbook-Utility"]
+	path = Hacker-Playbook-Utility
+	url = https://github.com/ibtehaz-shawon/Hacker-Playbook-Utility
+[submodule "YAKSR"]
+	path = YAKSR
+	url = git@github.com:ceramicskate0/YAKSR.git
+[submodule "infernal-twin"]
+	path = infernal-twin
+	url = git@github.com:wi-fi-analyzer/infernal-twin.git
+[submodule "oscp"]
+	path = oscp
+	url = git@github.com:garyhooks/oscp.git
+[submodule "NoSQLMap"]
+	path = NoSQLMap
+	url = git@github.com:codingo/NoSQLMap.git
+[submodule "GatosGuardianes"]
+	path = GatosGuardianes
+	url = git@github.com:violentlydave/GatosGuardianes.git
+[submodule "Sn1per"]
+	path = Sn1per
+	url = git@github.com:1N3/Sn1per.git
+[submodule "nmapcli"]
+	path = nmapcli
+	url = git@github.com:sheimo/nmapcli.git
+[submodule "XAttacker"]
+	path = XAttacker
+	url = git@github.com:Moham3dRiahi/XAttacker.git
+[submodule "ktools-linux"]
+	path = ktools-linux
+	url = git@github.com:f0rk1/ktools-linux.git
+[submodule "cve_searchsploit"]
+	path = cve_searchsploit
+	url = git@github.com:andreafioraldi/cve_searchsploit.git
+[submodule "kali-anonymous"]
+	path = kali-anonymous
+	url = git@github.com:keeganjk/kali-anonymous.git
+[submodule "DeAuthAll"]
+	path = DeAuthAll
+	url = git@github.com:hsouna/DeAuthAll.git
