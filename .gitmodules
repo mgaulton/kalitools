@@ -1078,3 +1078,45 @@
 [submodule "DeAuthAll"]
 	path = DeAuthAll
 	url = git@github.com:hsouna/DeAuthAll.git
+[submodule "DNS-Shell"]
+	path = DNS-Shell
+	url = git@github.com:sensepost/DNS-Shell.git
+[submodule "Nmap-Tools"]
+	path = Nmap-Tools
+	url = git@github.com:SpiderLabs/Nmap-Tools.git
+[submodule "q"]
+	path = q
+	url = git@github.com:pwnwiki/q.git
+[submodule "Privesc"]
+	path = Privesc
+	url = https://github.com/enjoiz/Privesc
+[submodule "osint-scraper"]
+	path = osint-scraper
+	url = git@github.com:famavott/osint-scraper.git
+[submodule "TheDoc"]
+	path = TheDoc
+	url = git@github.com:0x3curity/TheDoc.git
+[submodule "XSSTracer"]
+	path = XSSTracer
+	url = git@github.com:1N3/XSSTracer.git
+[submodule "CimSweep"]
+	path = CimSweep
+	url = git@github.com:PowerShellMafia/CimSweep.git
+[submodule "SMBrute"]
+	path = SMBrute
+	url = git@github.com:m4ll0k/SMBrute.git
+[submodule "nWatch"]
+	path = nWatch
+	url = git@github.com:rootlabs/nWatch.git
+[submodule "smbexec"]
+	path = smbexec
+	url = git@github.com:brav0hax/smbexec.git
+[submodule "recon.sh"]
+	path = recon.sh
+	url = git@github.com:jobertabma/recon.sh.git
+[submodule "fimap"]
+	path = fimap
+	url = git@github.com:kurobeats/fimap.git
+[submodule "Linux_Exploit_Suggester"]
+	path = Linux_Exploit_Suggester
+	url = git@github.com:InteliSecureLabs/Linux_Exploit_Suggester.git
