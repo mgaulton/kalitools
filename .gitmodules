@@ -1120,3 +1120,33 @@
 [submodule "Linux_Exploit_Suggester"]
 	path = Linux_Exploit_Suggester
 	url = git@github.com:InteliSecureLabs/Linux_Exploit_Suggester.git
+[submodule "DumpsterDiver"]
+	path = DumpsterDiver
+	url = https://github.com/securing/DumpsterDiver
+[submodule "Vegile"]
+	path = Vegile
+	url = git@github.com:Screetsec/Vegile.git
+[submodule "PowerTools"]
+	path = PowerTools
+	url = git@github.com:PowerShellEmpire/PowerTools.git
+[submodule "kernelpop"]
+	path = kernelpop
+	url = git@github.com:spencerdodd/kernelpop.git
+[submodule "netpwn"]
+	path = netpwn
+	url = git@github.com:3XPL017/netpwn.git
+[submodule "Cloak"]
+	path = Cloak
+	url = git@github.com:s0md3v/Cloak.git
+[submodule "Dracnmap"]
+	path = Dracnmap
+	url = git@github.com:Screetsec/Dracnmap.git
+[submodule "hackbox"]
+	path = hackbox
+	url = git@github.com:samhaxr/hackbox.git
+[submodule "detect-secrets"]
+	path = detect-secrets
+	url = git@github.com:Yelp/detect-secrets.git
+[submodule "AutoTTP"]
+	path = AutoTTP
+	url = git@github.com:jymcheong/AutoTTP.git
