@@ -1150,3 +1150,48 @@
 [submodule "AutoTTP"]
 	path = AutoTTP
 	url = git@github.com:jymcheong/AutoTTP.git
+[submodule "redteam-plan"]
+	path = redteam-plan
+	url = git@github.com:magoo/redteam-plan.git
+[submodule "webkiller"]
+	path = webkiller
+	url = git@github.com:ultrasecurity/webkiller.git
+[submodule "parameth"]
+	path = parameth
+	url = git@github.com:maK-/parameth.git
+[submodule "ScanCannon"]
+	path = ScanCannon
+	url = git@github.com:johnnyxmas/ScanCannon.git
+[submodule "Internal-Monologue"]
+	path = Internal-Monologue
+	url = git@github.com:eladshamir/Internal-Monologue.git
+[submodule "GetVulnerableGPO"]
+	path = GetVulnerableGPO
+	url = git@github.com:gpoguy/GetVulnerableGPO.git
+[submodule "RedHunt-OS"]
+	path = RedHunt-OS
+	url = git@github.com:redhuntlabs/RedHunt-OS.git
+[submodule "tactical-exploitation"]
+	path = tactical-exploitation
+	url = git@github.com:0xdea/tactical-exploitation.git
+[submodule "AutoSQLi"]
+	path = AutoSQLi
+	url = git@github.com:jesuiscamille/AutoSQLi.git
+[submodule "wifigod"]
+	path = wifigod
+	url = git@github.com:blackholesec/wifigod.git
+[submodule "4nonimizer"]
+	path = 4nonimizer
+	url = git@github.com:Hackplayers/4nonimizer.git
+[submodule "pureblood"]
+	path = pureblood
+	url = git@github.com:cr4shcod3/pureblood.git
+[submodule "awesome-cheatsheets"]
+	path = awesome-cheatsheets
+	url = git@github.com:LeCoupa/awesome-cheatsheets.git
+[submodule "massExpConsole"]
+	path = massExpConsole
+	url = git@github.com:jm33-m0/massExpConsole.git
+[submodule "Lazy-RDP"]
+	path = Lazy-RDP
+	url = git@github.com:getdrive/Lazy-RDP.git
