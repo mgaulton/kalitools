@@ -1195,3 +1195,24 @@
 [submodule "Lazy-RDP"]
 	path = Lazy-RDP
 	url = git@github.com:getdrive/Lazy-RDP.git
+[submodule "userrecon"]
+	path = userrecon
+	url = git@github.com:thelinuxchoice/userrecon.git
+[submodule "Auto-Root-Exploit"]
+	path = Auto-Root-Exploit
+	url = git@github.com:nilotpalbiswas/Auto-Root-Exploit.git
+[submodule "PSHunt"]
+	path = PSHunt
+	url = git@github.com:Infocyte/PSHunt.git
+[submodule "Log-killer"]
+	path = Log-killer
+	url = git@github.com:Rizer0/Log-killer.git
+[submodule "PE-Linux"]
+	path = PE-Linux
+	url = git@github.com:WazeHell/PE-Linux.git
+[submodule "THRecon"]
+	path = THRecon
+	url = git@github.com:TonyPhipps/THRecon.git
+[submodule "TIDoS-Framework"]
+	path = TIDoS-Framework
+	url = git@github.com:theInfectedDrake/TIDoS-Framework.git
