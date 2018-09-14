@@ -1216,3 +1216,15 @@
 [submodule "TIDoS-Framework"]
 	path = TIDoS-Framework
 	url = git@github.com:theInfectedDrake/TIDoS-Framework.git
+[submodule "AutoPixieWps"]
+	path = AutoPixieWps
+	url = https://github.com/nxxxu/AutoPixieWps
+[submodule "HTools"]
+	path = HTools
+	url = git@github.com:mehedishakeel/HTools.git
+[submodule "wifi-hacker"]
+	path = wifi-hacker
+	url = git@github.com:esc0rtd3w/wifi-hacker.git
+[submodule "Namechk"]
+	path = Namechk
+	url = git@github.com:HA71/Namechk.git
