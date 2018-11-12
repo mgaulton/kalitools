@@ -1228,3 +1228,15 @@
 [submodule "Namechk"]
 	path = Namechk
 	url = git@github.com:HA71/Namechk.git
+[submodule "blackhat-arsenal-tools"]
+	path = blackhat-arsenal-tools
+	url = git@github.com:toolswatch/blackhat-arsenal-tools.git
+[submodule "Cheatsheet-God"]
+	path = Cheatsheet-God
+	url = git@github.com:OlivierLaflamme/Cheatsheet-God.git
+[submodule "CyberThreatHunting"]
+	path = CyberThreatHunting
+	url = git@github.com:A3sal0n/CyberThreatHunting.git
+[submodule "Passhunt"]
+	path = Passhunt
+	url = git@github.com:Viralmaniar/Passhunt.git
