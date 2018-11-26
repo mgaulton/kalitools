@@ -1240,3 +1240,6 @@
 [submodule "Passhunt"]
 	path = Passhunt
 	url = git@github.com:Viralmaniar/Passhunt.git
+[submodule "bscan"]
+	path = bscan
+	url = git@github.com:welchbj/bscan.git
