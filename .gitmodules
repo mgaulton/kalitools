@@ -1243,3 +1243,15 @@
 [submodule "bscan"]
 	path = bscan
 	url = git@github.com:welchbj/bscan.git
+[submodule "Atlas"]
+	path = Atlas
+	url = git@github.com:m4ll0k/Atlas.git
+[submodule "PyKerberoast"]
+	path = PyKerberoast
+	url = git@github.com:skelsec/PyKerberoast.git
+[submodule "easysploit"]
+	path = easysploit
+	url = git@github.com:KALILINUXTRICKSYT/easysploit.git
+[submodule "gitleaks"]
+	path = gitleaks
+	url = https://github.com/zricethezav/gitleaks
