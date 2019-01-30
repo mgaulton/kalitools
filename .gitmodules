@@ -1255,3 +1255,6 @@
 [submodule "gitleaks"]
 	path = gitleaks
 	url = https://github.com/zricethezav/gitleaks
+[submodule "arsenal"]
+	path = arsenal
+	url = git@github.com:k0fin/arsenal.git
