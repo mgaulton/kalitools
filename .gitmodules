@@ -1258,3 +1258,36 @@
 [submodule "arsenal"]
 	path = arsenal
 	url = git@github.com:k0fin/arsenal.git
+[submodule "Automated-XSS-Finder"]
+	path = Automated-XSS-Finder
+	url = git@github.com:shadsidd/Automated-XSS-Finder.git
+[submodule "ghiro"]
+	path = ghiro
+	url = git@github.com:Ghirensics/ghiro.git
+[submodule "automated-pentest"]
+	path = automated-pentest
+	url = git@github.com:vishnudxb/automated-pentest.git
+[submodule "DeathStar"]
+	path = DeathStar
+	url = git@github.com:byt3bl33d3r/DeathStar.git
+[submodule "fame"]
+	path = fame
+	url = git@github.com:certsocietegenerale/fame.git
+[submodule "monkey2"]
+	path = monkey2
+	url = git@github.com:guardicore/monkey.git
+[submodule "AISecurityCamera"]
+	path = AISecurityCamera
+	url = git@github.com:smitshilu/AISecurityCamera.git
+[submodule "kaboom"]
+	path = kaboom
+	url = git@github.com:Leviathan36/kaboom.git
+[submodule "shodansploit"]
+	path = shodansploit
+	url = git@github.com:ismailtasdelen/shodansploit.git
+[submodule "burpa"]
+	path = burpa
+	url = git@github.com:0x4D31/burpa.git
+[submodule "SubDomainizer"]
+	path = SubDomainizer
+	url = git@github.com:nsonaniya2010/SubDomainizer.git
