@@ -1291,3 +1291,24 @@
 [submodule "SubDomainizer"]
 	path = SubDomainizer
 	url = git@github.com:nsonaniya2010/SubDomainizer.git
+[submodule "krbrelayx"]
+	path = krbrelayx
+	url = https://github.com/dirkjanm/krbrelayx
+[submodule "Password-Scripts"]
+	path = Password-Scripts
+	url = https://github.com/laconicwolf/Password-Scripts
+[submodule "LAPSToolkit"]
+	path = LAPSToolkit
+	url = https://github.com/leoloobeek/LAPSToolkit
+[submodule "Exchange2domain"]
+	path = Exchange2domain
+	url = https://github.com/Ridter/Exchange2domain
+[submodule "Bolt"]
+	path = Bolt
+	url = git@github.com:s0md3v/Bolt.git
+[submodule "pymetasploit3"]
+	path = pymetasploit3
+	url = git@github.com:DanMcInerney/pymetasploit3.git
+[submodule "metasploit-cheat-sheet"]
+	path = metasploit-cheat-sheet
+	url = git@github.com:ismailtasdelen/metasploit-cheat-sheet.git
