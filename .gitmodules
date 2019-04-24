@@ -1312,3 +1312,12 @@
 [submodule "metasploit-cheat-sheet"]
 	path = metasploit-cheat-sheet
 	url = git@github.com:ismailtasdelen/metasploit-cheat-sheet.git
+[submodule "pentestly"]
+	path = pentestly
+	url = git@github.com:praetorian-code/pentestly.git
+[submodule "freevulnsearch"]
+	path = freevulnsearch
+	url = https://github.com/OCSAF/freevulnsearch
+[submodule "HoneypotBuster"]
+	path = HoneypotBuster
+	url = git@github.com:JavelinNetworks/HoneypotBuster.git
