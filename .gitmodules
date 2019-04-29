@@ -1321,3 +1321,6 @@
 [submodule "HoneypotBuster"]
 	path = HoneypotBuster
 	url = git@github.com:JavelinNetworks/HoneypotBuster.git
+[submodule "nmap-parse-output"]
+	path = nmap-parse-output
+	url = git@github.com:ernw/nmap-parse-output.git
