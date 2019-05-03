@@ -1324,3 +1324,15 @@
 [submodule "nmap-parse-output"]
 	path = nmap-parse-output
 	url = git@github.com:ernw/nmap-parse-output.git
+[submodule "modDetective"]
+	path = modDetective
+	url = git@github.com:itsKindred/modDetective.git
+[submodule "nmap-bootstrap-xsl"]
+	path = nmap-bootstrap-xsl
+	url = git@github.com:honze-net/nmap-bootstrap-xsl.git
+[submodule "catnip"]
+	path = catnip
+	url = git@github.com:baguswiratmaadi/catnip.git
+[submodule "msoffice"]
+	path = msoffice
+	url = git@github.com:herumi/msoffice.git
