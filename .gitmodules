@@ -1336,3 +1336,12 @@
 [submodule "msoffice"]
 	path = msoffice
 	url = git@github.com:herumi/msoffice.git
+[submodule "Offensive-Dockerfiles"]
+	path = Offensive-Dockerfiles
+	url = https://github.com/khast3x/Offensive-Dockerfiles.git
+[submodule "Redcloud"]
+	path = Redcloud
+	url = https://github.com/khast3x/Redcloud.git
+[submodule "jak3r-docker"]
+	path = jak3r-docker
+	url = https://github.com/koutto/jok3r.git
