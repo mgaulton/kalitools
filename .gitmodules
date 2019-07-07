@@ -1345,3 +1345,30 @@
 [submodule "jak3r-docker"]
 	path = jak3r-docker
 	url = https://github.com/koutto/jok3r.git
+[submodule "PentestingWithPython-ToolBox"]
+	path = PentestingWithPython-ToolBox
+	url = https://github.com/sarthak1598/PentestingWithPython-ToolBox.git
+[submodule "blue-team"]
+	path = blue-team
+	url = https://github.com/maldevel/blue-team.git
+[submodule "blueteam/YABTR"]
+	path = blueteam/YABTR
+	url = https://github.com/ceramicskate0/YABTR.git
+[submodule "blueteam/TireFire"]
+	path = blueteam/TireFire
+	url = https://github.com/cloudsriseup/TireFire.git
+[submodule "blueteam/roboblue"]
+	path = blueteam/roboblue
+	url = https://github.com/ccdcoe/roboblue.git
+[submodule "blueteam/SIEM"]
+	path = blueteam/SIEM
+	url = https://github.com/TonyPhipps/SIEM.git
+[submodule "blueteam/awesome-cybersecurity-blueteam"]
+	path = blueteam/awesome-cybersecurity-blueteam
+	url = https://github.com/meitar/awesome-cybersecurity-blueteam.git
+[submodule "blueteam/Blueteam-Crash-Course"]
+	path = blueteam/Blueteam-Crash-Course
+	url = https://github.com/bocajspear1/Blueteam-Crash-Course.git
+[submodule "blueteam/MozDef"]
+	path = blueteam/MozDef
+	url = https://github.com/mozilla/MozDef.git
