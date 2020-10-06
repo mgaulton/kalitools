@@ -1378,3 +1378,12 @@
 [submodule "Exploitivator"]
 	path = Exploitivator
 	url = https://github.com/N1ckDunn/Exploitivator.git
+[submodule "Vailyn"]
+	path = Vailyn
+	url = https://github.com/VainlyStrain/Vailyn.git
+[submodule "grinder"]
+	path = grinder
+	url = https://github.com/sdnewhop/grinder.git
+[submodule "GHunt"]
+	path = GHunt
+	url = https://github.com/mxrch/GHunt.git
