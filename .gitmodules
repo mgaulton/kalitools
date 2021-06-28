@@ -1387,3 +1387,18 @@
 [submodule "GHunt"]
 	path = GHunt
 	url = https://github.com/mxrch/GHunt.git
+[submodule "pyWhat"]
+	path = pyWhat
+	url = https://github.com/bee-san/pyWhat.git
+[submodule "Wifi-Hacking"]
+	path = Wifi-Hacking
+	url = https://github.com/ankit0183/Wifi-Hacking.git
+[submodule "dirsearch"]
+	path = dirsearch
+	url = https://github.com/maurosoria/dirsearch.git
+[submodule "Name-That-Hash"]
+	path = Name-That-Hash
+	url = https://github.com/HashPals/Name-That-Hash.git
+[submodule "o365spray"]
+	path = o365spray
+	url = https://github.com/0xZDH/o365spray.git
